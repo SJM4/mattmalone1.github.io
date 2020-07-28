@@ -6,7 +6,7 @@
   This ePortfolio consists of three items it shows my strengths in the areas of software development and design, in algorithms and data structures, and in database technology. In the first artifact I translated from Java to C++ a program which reads tab delimited file with data containing the usernames, MD5 passwords, regular password, and type of account that it is. The program parses that data into its basic pieces at the tab points and requests and reads the user input of username and password. The program converts the password into an MD5 hash and compares it to the MD5 password and username read into memory by the program. It then opens correct type of file for the account type like a login with specific access would do. The second artifact is a for algorithms and data structures shows a binary search tree reading in a list of bid data and then giving the option of displaying all of the bids, finding a specific item from the bids, and removing a bid from the binary search tree data structure. It also implements a vector data structure and uses that to load the same bid data in a vector structure. This vector structure allows one to display all the bids then it gives the options to perform selection sort or quick sort. The third artifact uses python and the pymango driver to manipulate a mangoDB. It  uses a framework called bottle which was supplied by the university to connect with the database stocks and it creates, reads, updates, deletes, pulls the fifty day simple averages in a range, pulls all items from a specific industry, and aggregates an entire sector of the market data provided. 
 
 ### Code Review
-
+https://youtu.be/h-L1sz9XwAw
 
 ### Artifact One - Software Design and Engineering
 
